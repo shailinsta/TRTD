@@ -1,0 +1,54 @@
+{
+  "title": "TRTD: Temporal Riemannian Trust Deformation for Continuous Zero-Trust Verification under Federated Network Drift",
+  "description": "TRTD is a geometry-aware framework for federated intrusion detection and continuous Zero-Trust verification under concept drift. Network behaviour is represented as trajectories on the manifold of symmetric positive-definite (SPD) covariance states. Local traffic changes are encoded as tangent-space deformations and transported between successive reference states using affine-invariant parallel transport. TRTD combines geometric deviation with a temporal deformation residual to derive a drift-adaptive trust score and Zero-Trust policy boundary. This repository contains the experimental notebook, generated figures, and result tables for the TRTD framework.",
+  "creators": [
+    {
+      "name": "Mishra, Shailendra",
+      "affiliation": "Majmaah University"
+    },
+    {
+      "name": "Rathi, Megha",
+      "affiliation": "Jaypee Institute of Information Technology"
+    },
+    {
+      "name": "Srivastava, Saumitya",
+      "affiliation": "Jaypee Institute of Information Technology"
+    },
+    {
+      "name": "Alshenaifi, Reem",
+      "affiliation": "Majmaah University"
+    },
+    {
+      "name": "Dohare, Indu",
+      "affiliation": "Motilal Nehru National Institute of Technology Allahabad"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "upload_type": "software",
+  "keywords": [
+    "Zero-Trust",
+    "federated learning",
+    "intrusion detection",
+    "concept drift",
+    "Riemannian geometry",
+    "differential privacy",
+    "SPD manifold",
+    "network security"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/YOUR-USERNAME/TRTD",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://colab.research.google.com/drive/16j4PAllcbsoSo4JxTJDCZw_hAfnLRBFb?usp=sharing",
+      "relation": "isVariantFormOf",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ],
+  "notes": "DOI is minted automatically by Zenodo when a new GitHub release is published, once this repository is enabled at https://zenodo.org/account/settings/github/. After the first release, replace the 'identifier' above with your real GitHub URL, and add the DOI badge markdown to README.md: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)"
+}
