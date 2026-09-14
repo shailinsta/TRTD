@@ -1,0 +1,6 @@
+Variant,Abrupt,Gradual,Recurring,Stealth
+Full TRTD,0.426,0.389,0.373,0.309
+Distance-only,0.309,0.28,0.286,0.215
+Fixed threshold θ,0.341,0.306,0.292,0.269
+No-DP-noise,0.422,0.415,0.408,0.348
+Full-rank,0.404,0.399,0.385,0.32

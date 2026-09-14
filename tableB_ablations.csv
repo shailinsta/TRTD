@@ -1,0 +1,6 @@
+Variant,MCC_mean,MCC_std,BalAcc,Recovery_rounds,FIR,Policy,ECE,epsilon,Time_s,Comm_reduction_pct
+Full TRTD,0.374,0.046,0.681,3.8,0.078,0.22,0.12,2.5,11.9,25.0
+Distance-only,0.273,0.041,0.645,5.8,0.078,0.22,0.16,2.5,11.4,25.0
+Fixed threshold θ,0.302,0.033,0.656,3.8,0.128,0.3,0.12,2.5,11.3,25.0
+No-DP-noise,0.398,0.034,0.689,3.8,0.078,0.22,0.12,,11.5,25.0
+Full-rank,0.377,0.039,0.682,3.8,0.078,0.22,0.12,2.5,11.2,0.0

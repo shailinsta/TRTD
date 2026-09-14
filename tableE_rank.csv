@@ -1,0 +1,9 @@
+Dataset,Variant,MCC,Transmitted_floats,Bytes,Reduction
+CIDDS-001 (OpenStack),Full TRTD,0.3827,102,816,25%
+CIDDS-001 (OpenStack),Full-rank,0.3872,136,1088,0%
+NF-CSE-CIC-IDS2018,Full TRTD,0.3786,102,816,25%
+NF-CSE-CIC-IDS2018,Full-rank,0.3801,136,1088,0%
+NF-ToN-IoT,Full TRTD,0.3627,102,816,25%
+NF-ToN-IoT,Full-rank,0.3735,136,1088,0%
+UNSW-NB15 (test),Full TRTD,0.374,102,816,25%
+UNSW-NB15 (test),Full-rank,0.3677,136,1088,0%

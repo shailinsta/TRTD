@@ -1,0 +1,4 @@
+Test,Statistic,p_value,Effect
+Wilcoxon Full vs Distance-only (MCC),W=0.000,p<0.0001,+0.102
+Wilcoxon Full vs Fixed-θ (FIR),W=0.000,p=0.0002,-0.050
+Friedman test (5 variants),χ²=53.350,p<0.0001,"ranks: No-DP 1.31, Full-rank 2.31, Full TRTD 2.38, Fixed-θ 4.25, Distance-only 4.75"

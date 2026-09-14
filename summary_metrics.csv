@@ -1,0 +1,9 @@
+Metric,Value,Std
+Full TRTD mean MCC,0.374,0.046
+Full TRTD mean BalAcc,0.681,
+ΔMCC vs Distance-only,0.102,
+ΔMCC stealth vs Distance-only,0.094,
+FIR Full TRTD,0.078,
+FIR Fixed-θ,0.128,
+Recovery Full TRTD (rounds),3.8,
+Recovery Distance-only (rounds),5.8,
